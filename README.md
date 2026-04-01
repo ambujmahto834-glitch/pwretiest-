@@ -26,7 +26,7 @@
 </head>
 <body>
     <h1>Happy Birthday, Sister!</h1>
-    <img src="[[file:///C:/Users/mRm-Hani/Downloads/WhatsApp%20Image%202026-04-01%20at%2012.39.18%20PM.jpeg](https://www.instagram.com/p/DT5A65VkcEZ/?img_index=2)](https://www.instagram.com/_pwrettis.naina_11/p/DULe2VhkW8j/)">
+    <img src="https://instagram.fpat2-6.fna.fbcdn.net/v/t51.82787-19/645588821_18090408077327750_8511256108015069842_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fpat2-6.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFkL7tBpv-RQP1QhmXqewvMaQMecoBZ8vwfIm2dBCzh4QuEYfELy2snHg68nZkKaNz1_HhIQrH2hxZBqd0FdT4F&_nc_ohc=1Za4RbNPxygQ7kNvwHIyRDm&_nc_gid=T4RuKPoEMNXvO4y2mMxe3w&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_Af0TOVAoC7wSdbkxeiPAc03PGtikhIK6e0e3Mx9JMgczDA&oe=69D2BDBD&_nc_sid=7a9f4b">
     <div class="birthday-message">
         Naina, tu sirf meri behen nahi hai, tu meri sabse badi strength hai. ❤️ Har ek chhoti-badi baat jo main tujhe batata hoon, tu bina judge kiye sunti hai, samajhti hai aur hamesha mera support karti hai. Aaj ke time mein aise log bahut kam milte hain jo sach mein dil se saath dete hain, aur main lucky hoon ki mujhe tu mili. 🫂
 Tu mere liye sirf family nahi, ek best friend jaisi hai jisse main kuch bhi share kar sakta hoon. Jab bhi main confuse hota hoon, ya down feel karta hoon, tu hi wo insaan hoti hai jo mujhe samajh ke sahi direction deti hai. Teri baatein simple hoti hain, par unmein jo care hoti hai na, wo sabse alag hoti hai.
