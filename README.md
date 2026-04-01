@@ -26,7 +26,7 @@
 </head>
 <body>
     <h1>Happy Birthday, Sister!</h1>
-    <img src="[file:///C:/Users/mRm-Hani/Downloads/WhatsApp%20Image%202026-04-01%20at%2012.39.18%20PM.jpeg](https://www.instagram.com/_pwrettis.naina_11/p/DULe2VhkW8j/)">
+    <img src="[[file:///C:/Users/mRm-Hani/Downloads/WhatsApp%20Image%202026-04-01%20at%2012.39.18%20PM.jpeg](https://www.instagram.com/p/DT5A65VkcEZ/?img_index=2)](https://www.instagram.com/_pwrettis.naina_11/p/DULe2VhkW8j/)">
     <div class="birthday-message">
         Naina, tu sirf meri behen nahi hai, tu meri sabse badi strength hai. ❤️ Har ek chhoti-badi baat jo main tujhe batata hoon, tu bina judge kiye sunti hai, samajhti hai aur hamesha mera support karti hai. Aaj ke time mein aise log bahut kam milte hain jo sach mein dil se saath dete hain, aur main lucky hoon ki mujhe tu mili. 🫂
 Tu mere liye sirf family nahi, ek best friend jaisi hai jisse main kuch bhi share kar sakta hoon. Jab bhi main confuse hota hoon, ya down feel karta hoon, tu hi wo insaan hoti hai jo mujhe samajh ke sahi direction deti hai. Teri baatein simple hoti hain, par unmein jo care hoti hai na, wo sabse alag hoti hai.
